@@ -1,0 +1,6 @@
+D:\Study\WCF\GettingStarted\GettingStartedLib\bin\Debug\GettingStartedLib.dll.config
+D:\Study\WCF\GettingStarted\GettingStartedLib\bin\Debug\GettingStartedLib.dll
+D:\Study\WCF\GettingStarted\GettingStartedLib\bin\Debug\GettingStartedLib.pdb
+D:\Study\WCF\GettingStarted\GettingStartedLib\obj\Debug\GettingStartedLib.csprojResolveAssemblyReference.cache
+D:\Study\WCF\GettingStarted\GettingStartedLib\obj\Debug\GettingStartedLib.dll
+D:\Study\WCF\GettingStarted\GettingStartedLib\obj\Debug\GettingStartedLib.pdb
